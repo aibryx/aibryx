@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **frontend and backend dev**
 
-- 📫 How to reach me **alimdzhanibekov1@gmail.com**
+- 📫 How to reach me **tg.me/aibryx**
 
 <p align="left">
 </p>
