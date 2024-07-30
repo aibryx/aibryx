@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **frontend and backend dev**
 
 - 📫 How to reach me [telegram](https://t.me/aibryx)
+- 🔥 My GitLab [gitlab](https://gitlab.com/aibryx)
 
 <p align="left">
 </p>
