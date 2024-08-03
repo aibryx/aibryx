@@ -9,10 +9,3 @@
 
 - 📫 How to reach me [telegram](https://t.me/aibryx)
 - 🔥 My GitLab [gitlab](https://gitlab.com/aibryx)
-
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aibryx&show_icons=true&locale=en&layout=compact" alt="aibryx" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aibryx&show_icons=true&locale=en" alt="aibryx" /></p>
