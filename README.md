@@ -4,4 +4,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aibryx&label=Profile%20views&color=0e75b6&style=flat" alt="aibryx" /> </p>
 
 - 📫 How to reach me [telegram](https://t.me/aibryx)
-- 🔥 My GitLab [gitlab](https://gitlab.com/aibryx)
